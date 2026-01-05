@@ -14,3 +14,5 @@ A secure user authentication system built in C++ that allows users to register a
 ### Compilation:
 ```bash
 g++ login_system.cpp -o login
+./login     # Linux/Mac
+login.exe   # Windows
